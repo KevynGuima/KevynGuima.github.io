@@ -1,3 +1,23 @@
+html{
+	scroll-behavior: smooth;
+}
+.gradiente{
+	background-image: linear-gradient(to right, red, orange);
+}
+
 .divisor{
-	
+	margin-top: 7%;
+}
+
+.cor-menu{
+	color: #483D8B;
+}
+
+.centro{
+	text-align: center;
+}
+
+.sofa img{
+	align-items: center;
+	width: 50%;
 }
