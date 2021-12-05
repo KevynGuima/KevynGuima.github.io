@@ -1,0 +1,43 @@
+html {
+	scroll-behavior: smooth;
+}
+.gradiente {
+	background-image: linear-gradient(to right, red, orange);
+}
+
+.divisor {
+	margin-top: 7%;
+}
+
+.cor-menu {
+	color: #483D8B;
+}
+
+.centro {
+	text-align: center;
+}
+
+#sobre {
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+.sofa img{
+	align-items: center;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.ano {
+	background-image: linear-gradient(to right, orange, red);
+	border-radius: 50%;
+	width: 40%;
+	margin-right: auto;
+	margin-left: auto;
+	font-weight: 700;
+	margin-bottom: 2vh;
+}
+
